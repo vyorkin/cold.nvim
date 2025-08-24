@@ -84,7 +84,7 @@ local themes = {
                         fg = palette.green_05,
                     },
                     warning = {
-                        fg = palette.yellow_03,
+                        fg = palette.brown_01,
                     },
                 },
                 non_text = {
