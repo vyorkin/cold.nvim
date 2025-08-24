@@ -57,6 +57,9 @@ local palette = {
 
     brown_01 = '#452b04',
 
+    gold_01 = '#3c3105',
+    gold_02 = '#504107',
+
     none = 'NONE',
 }
 

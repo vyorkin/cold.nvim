@@ -84,7 +84,7 @@ local themes = {
                         fg = palette.green_05,
                     },
                     warning = {
-                        fg = palette.brown_01,
+                        fg = palette.gold_01,
                     },
                 },
                 non_text = {
@@ -349,7 +349,7 @@ local themes = {
                     fg = palette.red_03,
                 },
                 warn = {
-                    fg = palette.brown_01,
+                    fg = palette.gold_01,
                 },
                 info = {
                     fg = palette.blue_03,
@@ -612,7 +612,7 @@ local themes = {
                         fg = palette.green_05,
                     },
                     warning = {
-                        fg = palette.brown_01,
+                        fg = palette.gold_01,
                     },
                 },
                 non_text = {
@@ -877,7 +877,7 @@ local themes = {
                     fg = palette.red_03,
                 },
                 warn = {
-                    fg = palette.brown_01,
+                    fg = palette.gold_01,
                 },
                 info = {
                     fg = palette.blue_02,
