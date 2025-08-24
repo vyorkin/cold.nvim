@@ -214,7 +214,7 @@ local themes = {
             },
             syntax = {
                 comment = {
-                    fg = palette.dark_06,
+                    fg = palette.grey_01,
                 },
                 constant = {
                     fg = palette.light_01,
