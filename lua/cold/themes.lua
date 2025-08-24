@@ -257,7 +257,7 @@ local themes = {
                     fg = palette.grey_08,
                 },
                 type = {
-                    fg = palette.green_03,
+                    fg = palette.grey_07,
                     italic = {
                         normal = config.italic_type.normal,
                         builtin = config.italic_type.builtin,
@@ -785,7 +785,7 @@ local themes = {
                     fg = palette.grey_08,
                 },
                 type = {
-                    fg = palette.green_01,
+                    fg = palette.grey_01,
                     italic = {
                         normal = config.italic_type.normal,
                         builtin = config.italic_type.builtin,
