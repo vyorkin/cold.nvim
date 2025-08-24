@@ -53,7 +53,9 @@ local palette = {
     purple_02 = '#9ca0b0',
     purple_03 = '#a8aec1',
 
-    pink_01 = '#C493B0',
+    pink_01 = '#b33791',
+    pink_02 = '#c562af',
+    pink_03 = '#db8dd0',
 
     brown_01 = '#452b04',
 
