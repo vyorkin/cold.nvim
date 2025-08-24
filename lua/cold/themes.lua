@@ -349,7 +349,7 @@ local themes = {
                     fg = palette.red_03,
                 },
                 warn = {
-                    fg = palette.yellow_03,
+                    fg = palette.brown_01,
                 },
                 info = {
                     fg = palette.blue_03,
