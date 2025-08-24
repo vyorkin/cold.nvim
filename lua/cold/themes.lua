@@ -250,14 +250,14 @@ local themes = {
                     },
                 },
                 keyword = {
-                    fg = palette.pink_02,
+                    fg = palette.blue_03,
                     italic = config.italic_keyword,
                 },
                 operator = {
                     fg = palette.grey_08,
                 },
                 type = {
-                    fg = palette.grey_07,
+                    fg = palette.green_03,
                     italic = {
                         normal = config.italic_type.normal,
                         builtin = config.italic_type.builtin,
@@ -355,7 +355,7 @@ local themes = {
                     fg = palette.blue_03,
                 },
                 hint = {
-                    fg = palette.blue_05,
+                    fg = palette.pink_01,
                 },
                 ok = {
                     fg = palette.green_05,
@@ -785,7 +785,7 @@ local themes = {
                     fg = palette.grey_08,
                 },
                 type = {
-                    fg = palette.grey_01,
+                    fg = palette.green_01,
                     italic = {
                         normal = config.italic_type.normal,
                         builtin = config.italic_type.builtin,
@@ -883,7 +883,7 @@ local themes = {
                     fg = palette.blue_02,
                 },
                 hint = {
-                    fg = palette.blue_05,
+                    fg = palette.pink_01,
                 },
                 ok = {
                     fg = palette.green_04,
