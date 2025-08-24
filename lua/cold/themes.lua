@@ -214,7 +214,7 @@ local themes = {
             },
             syntax = {
                 comment = {
-                    fg = palette.grey_01,
+                    fg = palette.grey_02,
                 },
                 constant = {
                     fg = palette.light_01,
@@ -250,7 +250,7 @@ local themes = {
                     },
                 },
                 keyword = {
-                    fg = palette.blue_03,
+                    fg = palette.pink_02,
                     italic = config.italic_keyword,
                 },
                 operator = {
@@ -779,7 +779,7 @@ local themes = {
                     },
                 },
                 keyword = {
-                    fg = palette.pink_02,
+                    fg = palette.blue_02,
                 },
                 operator = {
                     fg = palette.grey_08,
