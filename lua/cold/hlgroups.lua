@@ -301,7 +301,7 @@ function M.get(theme)
         ['DiagnosticOk'] = { fg = theme.diagnostic.ok.fg },
 
         ['DiagnosticVirtualTextError'] = { link = 'DiagnosticError' },
-        ['DiagnosticVirtualTextWarn'] = { link = 'DiagnosticWarn' },
+        ['DiagnosticVirtualTextWarn'] = { fg = theme.diagnostic.warn.fg },
         ['DiagnosticVirtualTextInfo'] = { link = 'DiagnosticInfo' },
         ['DiagnosticVirtualTextHint'] = { link = 'DiagnosticHint' },
         ['DiagnosticVirtualTextOk'] = { link = 'DiagnosticOk' },
