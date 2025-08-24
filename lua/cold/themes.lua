@@ -612,7 +612,7 @@ local themes = {
                         fg = palette.green_05,
                     },
                     warning = {
-                        fg = palette.yellow_02,
+                        fg = palette.brown_01,
                     },
                 },
                 non_text = {
@@ -877,7 +877,7 @@ local themes = {
                     fg = palette.red_03,
                 },
                 warn = {
-                    fg = palette.yellow_02,
+                    fg = palette.brown_01,
                 },
                 info = {
                     fg = palette.blue_02,
